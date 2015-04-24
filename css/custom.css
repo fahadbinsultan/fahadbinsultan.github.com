@@ -1,0 +1,12 @@
+#style-switcher {
+  display: none;
+}
+.project-title {
+  font-size: 26px;
+}
+.editable-alpha{
+	opacity: 0.3 !important;
+}
+.success{
+  color: #ffffff;
+}
